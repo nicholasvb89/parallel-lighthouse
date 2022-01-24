@@ -1,0 +1,11 @@
+account.json
+.terraform*
+terraform.*
+node_modules/*
+.DS_Store
+**/.DS_Store
+lambdas/dist/*
+reports/*
+analysis/*
+analyzeruns.py
+outliers.py
